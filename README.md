@@ -84,6 +84,9 @@ The intelligence of EcoSort is powered primarily by the **Google Gemini API** (`
 - **Animation**: Motion (motion/react)
 - **Icons**: Lucide React
 - **Client SDK**: Google Generative AI SDK
+---
+## Website Link: https://eco-sort-mauve.vercel.app/
+
 
 ---
 
