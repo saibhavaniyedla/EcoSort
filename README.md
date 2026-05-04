@@ -1,4 +1,4 @@
-# EcoSort - AI-Powered Waste Classification
+# ECOSORT – SMART WASTE SEGREGATION SYSTEM
 
 EcoSort is a sophisticated, full-stack environmental management application designed to bridge the gap between waste generation and sustainable disposal. It utilizes advanced AI models to provide real-time sorting guidance, detailed material analysis, and interactive eco-education.
 
